@@ -1,3 +1,45 @@
+<p align="center">
+  <img src="docs/assets/project-banner.png" width="100%">
+</p>
+
+# Secure CI/CD Pipeline for Containerized Applications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-EKS-orange">
+  <img src="https://img.shields.io/badge/Jenkins-CI/CD-red">
+  <img src="https://img.shields.io/badge/Docker-Containerization-blue">
+  <img src="https://img.shields.io/badge/Trivy-Security-purple">
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4">
+</p>
+
+## Architecture
+
+![Architecture](docs/assets/architecture-overview.png)
+
+## CI/CD Pipeline
+
+![CI/CD](docs/assets/cicd-pipeline.png)
+
+## Security Workflow
+
+![Security](docs/assets/security-workflow.png)
+
+## Blue-Green Deployment
+
+![Blue Green](docs/assets/blue-green-deployment.png)
+
+## Automated Rollback
+
+![Rollback](docs/assets/rollback-workflow.png)
+
+## AWS Infrastructure
+
+![AWS](docs/assets/aws-infrastructure.png)
+
+## Monitoring
+
+![Monitoring](docs/assets/monitoring-dashboard.png)
+
 # Secure CI/CD Pipeline for Containerized Applications
 
 ## Project: TravelNova – Smart Travel Booking Platform
